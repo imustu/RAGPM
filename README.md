@@ -108,4 +108,4 @@ The source code for the programs is shared respectively at:
 
 ### 3.3 Contact
 
-**Please send bug reports and technical questions to Yuan Zhang at zhangyuan@mail.imu.edu.cn.
+**Please send bug reports and technical questions to Yuan Zhang at zhangyuan@mail.imu.edu.cn.**
