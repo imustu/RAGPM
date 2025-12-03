@@ -1,4 +1,4 @@
-# RAGPM
+# RAGPM and GSS
 
 # 🧬 Ancestral Genome Reconstruction & Simulation Programs
 
